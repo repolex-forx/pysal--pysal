@@ -1,0 +1,11 @@
+{
+  "org": "pysal",
+  "repo": "pysal",
+  "versions": [
+    {
+      "commit": "c27b6e34901e1868ed169a0e2444227e5e29f71f",
+      "tag": "",
+      "parsed_at": "2026-10-19T11:35:12.331091+00:00"
+    }
+  ]
+}
